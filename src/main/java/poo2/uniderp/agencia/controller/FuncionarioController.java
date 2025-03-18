@@ -11,7 +11,6 @@ import poo2.uniderp.agencia.fakedb.FuncionarioFakeDB;
 import poo2.uniderp.agencia.pojo.Funcionario;
 
 
-
 @RestController
 @RequestMapping("/api/agencia/recursoshumanos/funcionario")
 public class FuncionarioController {
