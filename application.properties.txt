@@ -1,7 +1,7 @@
-spring.application.name=agencia
+spring.application.name=estoque
 
 # Configs
-server.port=8081
+server.port=8080
 server.servlet.session.timeout=30s
 
 # H2 Connection
