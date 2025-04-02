@@ -13,7 +13,6 @@ import jakarta.persistence.Table;
 @Table(name = "categoria")
 public class Categoria {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long codigo;
 
     private String descricao;
